@@ -1,3 +1,3 @@
 # hello 
 Hi,
-This is swapnil uding git
+This is swapnil using git
